@@ -1,0 +1,13 @@
+Added Component: Designator=J8(Jumper_2.54)
+Added Component: Designator=J9(Jumper_2.54)
+Added Component: Designator=J10(Jumper_2.54)
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Member To Class: ClassName=levit_0.1  Member=Component J1 691103110003
+Added Member To Class: ClassName=levit_0.1  Member=Component J8 Jumper 1x2.54
+Added Member To Class: ClassName=levit_0.1  Member=Component J9 Jumper 1x2.54
+Added Member To Class: ClassName=levit_0.1  Member=Component J10 Jumper 1x2.54
