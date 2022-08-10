@@ -1,0 +1,190 @@
+Added Component: Designator=*1(D14-M)
+Added Component: Designator=D21(Vishay_S8-V-3910_01-001_IPC_A)
+Added Component: Designator=P6(61900311121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/61900311121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "January 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "1000VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(BC847B215)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC847B,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc847b215/nexperia?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC847_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC847B,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC847B-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC847B215?qs=me8TqzrmIYXXIdUoxWnHgw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R63(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R67(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R68(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R69(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R70(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R72(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R73(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R74(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R75(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R76(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R79(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RP1(Bourns_3296W_MFG)
+Added Component: Designator=RP2(Bourns_3296W_MFG)
+Added Component: Designator=RP4(Bourns_3296W_MFG)
+Added Component: Designator=RP6(Bourns_3296W_MFG)
+Added Component: Designator=RP7(Bourns_3296W_MFG)
+Added Component: Designator=RP9(Bourns_3296W_MFG)
+Added Component: Designator=RP10(Bourns_3296W_MFG)
+Added Component: Designator=TP34(Test_Point)
+Added Component: Designator=TP42(Test_Point)
+Added Component: Designator=TP43(Test_Point)
+Added Component: Designator=TP44(Test_Point)
+Added Component: Designator=TP45(Test_Point)
+Added Component: Designator=TP46(Test_Point)
+Added Component: Designator=TP47(Test_Point)
+Added Component: Designator=TP48(Test_Point)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_3 Pin=*1-3
+Added Pin To Net: NetName=+5 Pin=*1-4
+Added Pin To Net: NetName=Net*1_5 Pin=*1-5
+Added Pin To Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_7 Pin=*1-7
+Added Pin To Net: NetName=Net*1_8 Pin=*1-8
+Added Pin To Net: NetName=Net*1_9 Pin=*1-9
+Added Pin To Net: NetName=Net*1_10 Pin=*1-10
+Added Pin To Net: NetName=GND Pin=*1-11
+Added Pin To Net: NetName=Net*1_12 Pin=*1-12
+Added Pin To Net: NetName=Net*1_13 Pin=*1-13
+Added Pin To Net: NetName=Net*1_14 Pin=*1-14
+Added Pin To Net: NetName=Net*2_14 Pin=D21-1
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=+5 Pin=P6-3
+Added Pin To Net: NetName=NetJ7_2 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=Net*2_9 Pin=Q6-3
+Added Pin To Net: NetName=NetP1_2 Pin=R1-1
+Added Pin To Net: NetName=Net*_3 Pin=R1-2
+Added Pin To Net: NetName=NetP2_2 Pin=R15-1
+Added Pin To Net: NetName=Net*_2 Pin=R15-2
+Added Pin To Net: NetName=Net*_2 Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=Net*_2 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=Net*2_6 Pin=R63-1
+Added Pin To Net: NetName=GND Pin=R63-2
+Added Pin To Net: NetName=+5 Pin=R67-1
+Added Pin To Net: NetName=Net*2_10 Pin=R67-2
+Added Pin To Net: NetName=NetP6_2 Pin=R68-1
+Added Pin To Net: NetName=Net*2_2 Pin=R68-2
+Added Pin To Net: NetName=Net*2_2 Pin=R69-1
+Added Pin To Net: NetName=+5 Pin=R69-2
+Added Pin To Net: NetName=Net*2_2 Pin=R70-1
+Added Pin To Net: NetName=GND Pin=R70-2
+Added Pin To Net: NetName=+5 Pin=R72-1
+Added Pin To Net: NetName=Net*2_9 Pin=R72-2
+Added Pin To Net: NetName=Net*2_2 Pin=R73-1
+Added Pin To Net: NetName=GND Pin=R73-2
+Added Pin To Net: NetName=NetD18_1 Pin=R74-1
+Added Pin To Net: NetName=Net*2_8 Pin=R74-2
+Added Pin To Net: NetName=GND Pin=R75-1
+Added Pin To Net: NetName=Net*2_9 Pin=R75-2
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=Net*2_10 Pin=R76-2
+Added Pin To Net: NetName=Net*2_13 Pin=R79-1
+Added Pin To Net: NetName=GND Pin=R79-2
+Added Pin To Net: NetName=+5 Pin=RP1-1
+Added Pin To Net: NetName=Net*_3 Pin=RP1-2
+Added Pin To Net: NetName=GND Pin=RP1-3
+Added Pin To Net: NetName=+5 Pin=RP2-1
+Added Pin To Net: NetName=Net*_2 Pin=RP2-2
+Added Pin To Net: NetName=GND Pin=RP2-3
+Added Pin To Net: NetName=+5 Pin=RP4-1
+Added Pin To Net: NetName=Net*_13 Pin=RP4-2
+Added Pin To Net: NetName=GND Pin=RP4-3
+Added Pin To Net: NetName=+5 Pin=RP6-1
+Added Pin To Net: NetName=Net*1_3 Pin=RP6-2
+Added Pin To Net: NetName=GND Pin=RP6-3
+Added Pin To Net: NetName=+5 Pin=RP7-1
+Added Pin To Net: NetName=Net*1_2 Pin=RP7-2
+Added Pin To Net: NetName=GND Pin=RP7-3
+Added Pin To Net: NetName=+5 Pin=RP9-1
+Added Pin To Net: NetName=Net*1_13 Pin=RP9-2
+Added Pin To Net: NetName=GND Pin=RP9-3
+Added Pin To Net: NetName=+5 Pin=RP10-1
+Added Pin To Net: NetName=Net*2_3 Pin=RP10-2
+Added Pin To Net: NetName=GND Pin=RP10-3
+Added Pin To Net: NetName=+12 Pin=TP34-1
+Added Pin To Net: NetName=Net*2_2 Pin=TP42-1
+Added Pin To Net: NetName=Net*2_10 Pin=TP43-1
+Added Pin To Net: NetName=Net*2_8 Pin=TP44-1
+Added Pin To Net: NetName=Net*2_9 Pin=TP45-1
+Added Pin To Net: NetName=Net*_14 Pin=TP46-1
+Added Pin To Net: NetName=Net*2_14 Pin=TP47-1
+Added Pin To Net: NetName=Net*2_13 Pin=TP48-1
+Added Member To Class: ClassName=levit_0.1  Member=Component *1 LM324AD_SOIC14
+Added Member To Class: ClassName=levit_0.1  Member=Component D21 1N4148W-7-F
+Added Member To Class: ClassName=levit_0.1  Member=Component P6 61900311121
+Added Member To Class: ClassName=levit_0.1  Member=Component Q6 BC847B,215
+Added Member To Class: ClassName=levit_0.1  Member=Component R1 50k
+Added Member To Class: ClassName=levit_0.1  Member=Component R15 50k
+Added Member To Class: ClassName=levit_0.1  Member=Component R17 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component R20 50k
+Added Member To Class: ClassName=levit_0.1  Member=Component R63 1k
+Added Member To Class: ClassName=levit_0.1  Member=Component R67 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component R68 50k
+Added Member To Class: ClassName=levit_0.1  Member=Component R69 1k
+Added Member To Class: ClassName=levit_0.1  Member=Component R70 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component R72 9.1k
+Added Member To Class: ClassName=levit_0.1  Member=Component R73 50k
+Added Member To Class: ClassName=levit_0.1  Member=Component R74 1k
+Added Member To Class: ClassName=levit_0.1  Member=Component R75 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component R76 1k
+Added Member To Class: ClassName=levit_0.1  Member=Component R79 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component RP1 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component RP2 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component RP4 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component RP6 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component RP7 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component RP9 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component RP10 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component TP34 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP42 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP43 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP44 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP45 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP46 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP47 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP48 Test_Point_PCB
