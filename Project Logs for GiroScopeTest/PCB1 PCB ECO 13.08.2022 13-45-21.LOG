@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=Net*_3 Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=Net*_2 Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=Net*1_3 Pin=R32-1
+Removed Pin From Net: NetName=GND Pin=R32-2
+Removed Pin From Net: NetName=Net*1_2 Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=R44-2
+Removed Pin From Net: NetName=Net*2_3 Pin=R59-1
+Removed Pin From Net: NetName=GND Pin=R59-2
+Removed Pin From Net: NetName=Net*2_2 Pin=R70-1
+Removed Pin From Net: NetName=GND Pin=R70-2
+Removed Member From Class: ClassName=levit_0.1 Member=R6
+Removed Member From Class: ClassName=levit_0.1 Member=R17
+Removed Member From Class: ClassName=levit_0.1 Member=R32
+Removed Member From Class: ClassName=levit_0.1 Member=R44
+Removed Member From Class: ClassName=levit_0.1 Member=R59
+Removed Member From Class: ClassName=levit_0.1 Member=R70
+Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
+Change Room Name: Old Name=levit_0.1 New Name=levit_0.1 
