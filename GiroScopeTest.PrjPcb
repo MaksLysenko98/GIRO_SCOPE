@@ -41,6 +41,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec_MFG.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CLYAMGHR
+
+[Document2]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -57,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKRCOEOF
 
-[Document2]
+[Document3]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFEJYVPF
 
-[Document3]
+[Document4]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUGOXLPV
 
-[Document4]
+[Document5]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFBKISUF
 
-[Document5]
+[Document6]
 DocumentPath=Res_Bourns_3296W-1-202LF_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYFLHCGD
 
-[Document6]
+[Document7]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVWRTILE
 
-[Document7]
+[Document8]
+DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\TO229P991X239-3_4N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BEGOGYMR
+
+[Document9]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDJJVIAA
 
-[Document8]
+[Document10]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFABURAD
 
-[Document9]
+[Document11]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUMRFNIF
 
-[Document10]
+[Document12]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYBMFNJF
 
-[Document11]
+[Document13]
 DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLYAMGHR
 
-[Document12]
+[Document14]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLSSRYYR
 
-[Document13]
+[Document15]
 DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKQTLNTH
 
-[Document14]
+[Document16]
 DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWEKQSBO
 
-[Document15]
+[Document17]
 DocumentPath=LM324AD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SDWYSYMW
 
-[Document16]
+[Document18]
 DocumentPath=Test_Point.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHEDDXTT
 
-[Document17]
+[Document19]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJJFNTER
 
-[Document18]
+[Document20]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKGMGULD
 
-[Document19]
+[Document21]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVBRAYEB
 
-[Document20]
+[Document22]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNIHHKLE
 
-[Document21]
+[Document23]
 DocumentPath=Jumper_2.54.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSKHJDJS
 
-[Document22]
+[Document24]
 DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMNOQQRQ
 
-[Document23]
+[Document25]
 DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\IRFR9024N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,42 +465,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWSOWJIJ
 
-[Document24]
-DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BHUGGUSZ
-
-[Document25]
-DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JYDHOEHL
-
 [Document26]
-DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
+DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -483,6 +483,57 @@ GenerateClassCluster=0
 DocumentUniqueId=HRTGEUMW
 
 [Document27]
+DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BHUGGUSZ
+
+[Document28]
+DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JYDHOEHL
+
+[Document29]
+DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HRTGEUMW
+
+[Document30]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCPGYQKH
 
-[Document28]
+[Document31]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPVHRZES
 
-[Document29]
+[Document32]
 DocumentPath=LM324AD_SOIC14.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -533,7 +584,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYWXECQK
 
-[Document30]
+[Document33]
 DocumentPath=Res_Bourns_3296W-1-202LF_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -550,7 +601,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSUIDNLX
 
-[Document31]
+[Document34]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -567,7 +618,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOKIUUFH
 
-[Document32]
+[Document35]
 DocumentPath=Test_Point.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -584,7 +635,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSUWXYSD
 
-[Document33]
+[Document36]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -601,7 +652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUPKJGQI
 
-[Document34]
+[Document37]
 DocumentPath=Jumper_1x2.54.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -618,7 +669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIFTRVZG
 
-[Document35]
+[Document38]
 DocumentPath=levit_0.1 .SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -635,7 +686,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLOOUCUL
 
-[Document36]
+[Document39]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -652,7 +703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBLEBQTI
 
-[Document37]
+[Document40]
 DocumentPath=GiroScopeTest.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -669,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document41]
 DocumentPath=Dual_chanel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,6 +736,118 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESSXEQZG
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for GiroScopeTest\PCB1_Soldermask_Top.gbr
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -805,7 +968,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet MFP M426fdn
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -907,72 +1070,80 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16973833~1,16908289~1,16973848~1,16973831~1,16973849~1,16973835~1,16973830~1,16973832~1,16842751~1,16973834~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\Администратор\Documents\GitHub\GIRO_SCOPE\PCB1.PcbDoc
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Администратор\Documents\GitHub\GIRO_SCOPE\PCB1.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -985,6 +1156,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
