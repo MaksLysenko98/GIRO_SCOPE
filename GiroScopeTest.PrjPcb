@@ -772,23 +772,87 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for GiroScopeTest\GiroScope.DRR
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for GiroScopeTest\GiroScope.EXTREP
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for GiroScopeTest\GiroScope.LDP
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for GiroScopeTest\GiroScope.REP
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for GiroScopeTest\GiroScope.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for GiroScopeTest\GiroScope.TXT
 DItemRevisionGUID=
 
 [Configuration1]
