@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=Net*1_12 Pin=*1-12
+Removed Pin From Net: NetName=Net*1_13 Pin=*1-13
+Removed Pin From Net: NetName=Net*1_14 Pin=*1-14
+Removed Pin From Net: NetName=Net*2_12 Pin=*2-12
+Removed Pin From Net: NetName=Net*2_13 Pin=*2-13
+Removed Pin From Net: NetName=Net*2_14 Pin=*2-14
+Removed Pin From Net: NetName=Net*_12 Pin=*-12
+Removed Pin From Net: NetName=Net*_13 Pin=*-13
+Added Component: Designator=*3(D14-M)
+Added Component: Designator=*4(D14-M)
+Added Pin To Net: NetName=+5 Pin=*3-4
+Added Pin To Net: NetName=GND Pin=*3-11
+Added Pin To Net: NetName=Net*1_13 Pin=*3-12
+Added Pin To Net: NetName=Net*1_12 Pin=*3-13
+Added Pin To Net: NetName=+5 Pin=*4-4
+Added Pin To Net: NetName=GND Pin=*4-11
+Added Pin To Net: NetName=Net*2_13 Pin=*4-12
+Added Pin To Net: NetName=Net*2_12 Pin=*4-13
+Added Pin To Net: NetName=Net*2_14 Pin=*4-14
+Added Pin To Net: NetName=Net*_13 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=*-13
+Change Net Name : Old Net Name=Net*1_12 New Net Name=Net*3_13
+Change Net Name : Old Net Name=Net*1_13 New Net Name=Net*3_12
+Change Net Name : Old Net Name=Net*1_14 New Net Name=NetC17_2
+Change Net Name : Old Net Name=Net*2_12 New Net Name=Net*4_13
+Change Net Name : Old Net Name=Net*2_13 New Net Name=Net*4_12
+Change Net Name : Old Net Name=Net*2_14 New Net Name=Net*4_14
+Change Net Name : Old Net Name=Net*_12 New Net Name=Net*_13
+Change Net Name : Old Net Name=Net*_13 New Net Name=Net*_12
+Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
+Added Member To Class: ClassName=levit_0.1  Member=Component *3 LM324AD_SOIC14
+Added Member To Class: ClassName=levit_0.1  Member=Component *4 LM324AD_SOIC14
+Change Room Name: Old Name=levit_0.1 New Name=levit_0.1 
