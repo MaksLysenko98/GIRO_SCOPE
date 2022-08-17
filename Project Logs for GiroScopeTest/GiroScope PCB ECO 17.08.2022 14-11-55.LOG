@@ -1,0 +1,5 @@
+Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
+Added Member To Class: ClassName=levit_0.1  Member=Component HS5 Hall_Sensor
+Added Member To Class: ClassName=levit_0.1  Member=Component P10 61900311121
+Added Member To Class: ClassName=levit_0.1  Member=Component U7 IC_Nexperia_TL431AQDBZR,215_eec
+Change Room Name: Old Name=levit_0.1 New Name=levit_0.1 

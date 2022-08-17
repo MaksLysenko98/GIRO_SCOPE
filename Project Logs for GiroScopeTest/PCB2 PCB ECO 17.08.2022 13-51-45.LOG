@@ -1,0 +1,336 @@
+Removed Pin From Net: NetName=Net*3_1 Pin=*3-1
+Removed Pin From Net: NetName=Net*3_2 Pin=*3-2
+Removed Pin From Net: NetName=+5 Pin=*3-4
+Removed Pin From Net: NetName=GND Pin=*3-11
+Removed Pin From Net: NetName=Net*3_14 Pin=*3-14
+Removed Pin From Net: NetName=Net*1_1 Pin=*4-1
+Removed Pin From Net: NetName=Net*1_2 Pin=*4-2
+Removed Pin From Net: NetName=+5 Pin=*4-4
+Removed Pin From Net: NetName=GND Pin=*4-11
+Removed Pin From Net: NetName=Net*1_14 Pin=*4-14
+Removed Pin From Net: NetName=Net*2_1 Pin=*5-1
+Removed Pin From Net: NetName=Net*2_2 Pin=*5-2
+Removed Pin From Net: NetName=+5 Pin=*5-4
+Removed Pin From Net: NetName=GND Pin=*5-11
+Removed Pin From Net: NetName=Net*2_14 Pin=*5-14
+Removed Pin From Net: NetName=Net*3_1 Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=NetC25_2 Pin=C41-2
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=NetC26_2 Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=NetC27_2 Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=+12 Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=NetC5_1 Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=NetC37_2 Pin=C49-2
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=Net*3_14 Pin=C53-2
+Removed Pin From Net: NetName=GND Pin=C54-1
+Removed Pin From Net: NetName=+5 Pin=C54-2
+Removed Pin From Net: NetName=GND Pin=C55-1
+Removed Pin From Net: NetName=NetC28_2 Pin=C55-2
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=NetC29_2 Pin=C56-2
+Removed Pin From Net: NetName=GND Pin=C57-1
+Removed Pin From Net: NetName=NetC30_2 Pin=C57-2
+Removed Pin From Net: NetName=Net*1_1 Pin=C59-1
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=GND Pin=C62-1
+Removed Pin From Net: NetName=GND Pin=C63-1
+Removed Pin From Net: NetName=NetC5_1 Pin=C64-1
+Removed Pin From Net: NetName=GND Pin=C64-2
+Removed Pin From Net: NetName=GND Pin=C65-1
+Removed Pin From Net: NetName=NetC37_2 Pin=C65-2
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=Net*1_14 Pin=C67-2
+Removed Pin From Net: NetName=GND Pin=C68-1
+Removed Pin From Net: NetName=+5 Pin=C68-2
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=GND Pin=C70-1
+Removed Pin From Net: NetName=GND Pin=C71-1
+Removed Pin From Net: NetName=Net*2_1 Pin=C72-1
+Removed Pin From Net: NetName=GND Pin=C74-1
+Removed Pin From Net: NetName=NetC5_1 Pin=C75-1
+Removed Pin From Net: NetName=GND Pin=C75-2
+Removed Pin From Net: NetName=GND Pin=C76-1
+Removed Pin From Net: NetName=NetC37_2 Pin=C76-2
+Removed Pin From Net: NetName=GND Pin=C78-1
+Removed Pin From Net: NetName=Net*2_14 Pin=C78-2
+Removed Pin From Net: NetName=GND Pin=C79-1
+Removed Pin From Net: NetName=+5 Pin=C79-2
+Removed Pin From Net: NetName=VCC Pin=CR3-2
+Removed Pin From Net: NetName=GND Pin=CR4-2
+Removed Pin From Net: NetName=Net*3_14 Pin=D23-1
+Removed Pin From Net: NetName=NetD19_2 Pin=D23-2
+Removed Pin From Net: NetName=GND Pin=D24-2
+Removed Pin From Net: NetName=Net*1_14 Pin=D25-1
+Removed Pin From Net: NetName=NetD20_2 Pin=D25-2
+Removed Pin From Net: NetName=Net*2_14 Pin=D27-1
+Removed Pin From Net: NetName=NetD21_2 Pin=D27-2
+Removed Pin From Net: NetName=GND Pin=D28-2
+Removed Pin From Net: NetName=GND Pin=D30-2
+Removed Pin From Net: NetName=GND Pin=D32-2
+Removed Pin From Net: NetName=GND Pin=D34-2
+Removed Pin From Net: NetName=GND Pin=D36-2
+Removed Pin From Net: NetName=GND Pin=HS7-2
+Removed Pin From Net: NetName=GND Pin=HS8-2
+Removed Pin From Net: NetName=GND Pin=HS9-2
+Removed Pin From Net: NetName=GND Pin=HS10-2
+Removed Pin From Net: NetName=GND Pin=HS11-2
+Removed Pin From Net: NetName=GND Pin=HS12-2
+Removed Pin From Net: NetName=GND Pin=J13-1
+Removed Pin From Net: NetName=Net*1_14 Pin=J14-1
+Removed Pin From Net: NetName=GND Pin=J16-1
+Removed Pin From Net: NetName=Net*2_14 Pin=J17-1
+Removed Pin From Net: NetName=GND Pin=J19-1
+Removed Pin From Net: NetName=Net*3_14 Pin=J20-1
+Removed Pin From Net: NetName=VCC Pin=Q7-4
+Removed Pin From Net: NetName=VCC Pin=Q10-4
+Removed Pin From Net: NetName=VCC Pin=Q13-4
+Removed Pin From Net: NetName=Net*3_2 Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=Net*_10 Pin=R23-2
+Removed Pin From Net: NetName=Net*_12 Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=Net*3_2 Pin=R32-1
+Removed Pin From Net: NetName=Net*3_1 Pin=R32-2
+Removed Pin From Net: NetName=+5 Pin=R44-2
+Removed Pin From Net: NetName=Net*1_2 Pin=R47-1
+Removed Pin From Net: NetName=GND Pin=R47-2
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=Net*1_10 Pin=R50-2
+Removed Pin From Net: NetName=Net*1_12 Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=R53-2
+Removed Pin From Net: NetName=GND Pin=R59-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R70-1
+Removed Pin From Net: NetName=Net*3_1 Pin=R70-2
+Removed Pin From Net: NetName=Net*2_2 Pin=R73-1
+Removed Pin From Net: NetName=GND Pin=R73-2
+Removed Pin From Net: NetName=GND Pin=R76-1
+Removed Pin From Net: NetName=Net*2_10 Pin=R76-2
+Removed Pin From Net: NetName=Net*2_12 Pin=R79-1
+Removed Pin From Net: NetName=GND Pin=R79-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R83-1
+Removed Pin From Net: NetName=GND Pin=R83-2
+Removed Pin From Net: NetName=NetC26_2 Pin=R84-1
+Removed Pin From Net: NetName=GND Pin=R84-2
+Removed Pin From Net: NetName=NetC27_2 Pin=R85-1
+Removed Pin From Net: NetName=GND Pin=R85-2
+Removed Pin From Net: NetName=NetC37_2 Pin=R88-1
+Removed Pin From Net: NetName=GND Pin=R88-2
+Removed Pin From Net: NetName=NetC28_2 Pin=R92-1
+Removed Pin From Net: NetName=GND Pin=R92-2
+Removed Pin From Net: NetName=NetC29_2 Pin=R93-1
+Removed Pin From Net: NetName=GND Pin=R93-2
+Removed Pin From Net: NetName=NetC30_2 Pin=R94-1
+Removed Pin From Net: NetName=GND Pin=R94-2
+Removed Pin From Net: NetName=NetC38_2 Pin=R97-1
+Removed Pin From Net: NetName=GND Pin=R97-2
+Removed Pin From Net: NetName=NetC39_2 Pin=R100-1
+Removed Pin From Net: NetName=GND Pin=R100-2
+Removed Pin From Net: NetName=NetC27_2 Pin=R125-1
+Removed Pin From Net: NetName=Net*2_1 Pin=R125-2
+Removed Pin From Net: NetName=NetC26_2 Pin=R126-1
+Removed Pin From Net: NetName=Net*1_1 Pin=R126-2
+Removed Pin From Net: NetName=GND Pin=R127-2
+Removed Pin From Net: NetName=GND Pin=R128-1
+Removed Pin From Net: NetName=Net*3_1 Pin=R131-2
+Removed Pin From Net: NetName=GND Pin=R132-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R133-1
+Removed Pin From Net: NetName=GND Pin=R133-2
+Removed Pin From Net: NetName=NetC26_2 Pin=R134-1
+Removed Pin From Net: NetName=GND Pin=R134-2
+Removed Pin From Net: NetName=NetC27_2 Pin=R135-1
+Removed Pin From Net: NetName=GND Pin=R135-2
+Removed Pin From Net: NetName=GND Pin=R137-2
+Removed Pin From Net: NetName=+5 Pin=R140-1
+Removed Pin From Net: NetName=Net*3_2 Pin=R141-2
+Removed Pin From Net: NetName=Net*3_2 Pin=R142-1
+Removed Pin From Net: NetName=+5 Pin=R142-2
+Removed Pin From Net: NetName=GND Pin=R143-1
+Removed Pin From Net: NetName=NetC37_2 Pin=R144-1
+Removed Pin From Net: NetName=+5 Pin=R145-1
+Removed Pin From Net: NetName=Net*3_2 Pin=R147-1
+Removed Pin From Net: NetName=GND Pin=R147-2
+Removed Pin From Net: NetName=Net*3_14 Pin=R148-1
+Removed Pin From Net: NetName=NetC37_2 Pin=R149-1
+Removed Pin From Net: NetName=GND Pin=R149-2
+Removed Pin From Net: NetName=GND Pin=R151-1
+Removed Pin From Net: NetName=GND Pin=R152-1
+Removed Pin From Net: NetName=+5 Pin=R153-2
+Removed Pin From Net: NetName=GND Pin=R154-1
+Removed Pin From Net: NetName=NetC28_2 Pin=R155-1
+Removed Pin From Net: NetName=+5 Pin=R155-2
+Removed Pin From Net: NetName=NetC29_2 Pin=R156-1
+Removed Pin From Net: NetName=+12 Pin=R156-2
+Removed Pin From Net: NetName=NetC30_2 Pin=R157-1
+Removed Pin From Net: NetName=VCC Pin=R157-2
+Removed Pin From Net: NetName=GND Pin=R158-2
+Removed Pin From Net: NetName=NetC28_2 Pin=R159-1
+Removed Pin From Net: NetName=GND Pin=R159-2
+Removed Pin From Net: NetName=NetC29_2 Pin=R160-1
+Removed Pin From Net: NetName=GND Pin=R160-2
+Removed Pin From Net: NetName=NetC30_2 Pin=R161-1
+Removed Pin From Net: NetName=GND Pin=R161-2
+Removed Pin From Net: NetName=Net*1_2 Pin=R162-1
+Removed Pin From Net: NetName=Net*1_1 Pin=R162-2
+Removed Pin From Net: NetName=+5 Pin=R164-2
+Removed Pin From Net: NetName=GND Pin=R165-2
+Removed Pin From Net: NetName=GND Pin=R167-1
+Removed Pin From Net: NetName=GND Pin=R168-2
+Removed Pin From Net: NetName=GND Pin=R169-1
+Removed Pin From Net: NetName=Net*1_1 Pin=R172-2
+Removed Pin From Net: NetName=GND Pin=R173-2
+Removed Pin From Net: NetName=GND Pin=R178-2
+Removed Pin From Net: NetName=+5 Pin=R181-1
+Removed Pin From Net: NetName=Net*1_2 Pin=R185-2
+Removed Pin From Net: NetName=Net*1_2 Pin=R186-1
+Removed Pin From Net: NetName=+5 Pin=R186-2
+Removed Pin From Net: NetName=GND Pin=R187-1
+Removed Pin From Net: NetName=NetC37_2 Pin=R188-1
+Removed Pin From Net: NetName=+5 Pin=R189-1
+Removed Pin From Net: NetName=GND Pin=R190-2
+Removed Pin From Net: NetName=GND Pin=R191-2
+Removed Pin From Net: NetName=GND Pin=R192-2
+Removed Pin From Net: NetName=Net*1_2 Pin=R194-1
+Removed Pin From Net: NetName=GND Pin=R194-2
+Removed Pin From Net: NetName=Net*1_14 Pin=R195-1
+Removed Pin From Net: NetName=NetC37_2 Pin=R196-1
+Removed Pin From Net: NetName=GND Pin=R196-2
+Removed Pin From Net: NetName=GND Pin=R198-1
+Removed Pin From Net: NetName=GND Pin=R199-1
+Removed Pin From Net: NetName=+5 Pin=R200-2
+Removed Pin From Net: NetName=GND Pin=R201-1
+Removed Pin From Net: NetName=GND Pin=R205-2
+Removed Pin From Net: NetName=GND Pin=R209-2
+Removed Pin From Net: NetName=GND Pin=R210-2
+Removed Pin From Net: NetName=GND Pin=R211-2
+Removed Pin From Net: NetName=Net*2_2 Pin=R212-1
+Removed Pin From Net: NetName=Net*2_1 Pin=R212-2
+Removed Pin From Net: NetName=+5 Pin=R214-2
+Removed Pin From Net: NetName=GND Pin=R215-2
+Removed Pin From Net: NetName=GND Pin=R217-2
+Removed Pin From Net: NetName=GND Pin=R218-1
+Removed Pin From Net: NetName=Net*2_1 Pin=R221-2
+Removed Pin From Net: NetName=GND Pin=R222-2
+Removed Pin From Net: NetName=GND Pin=R224-2
+Removed Pin From Net: NetName=+5 Pin=R227-1
+Removed Pin From Net: NetName=Net*2_2 Pin=R228-2
+Removed Pin From Net: NetName=Net*2_2 Pin=R229-1
+Removed Pin From Net: NetName=+5 Pin=R229-2
+Removed Pin From Net: NetName=GND Pin=R230-1
+Removed Pin From Net: NetName=NetC37_2 Pin=R231-1
+Removed Pin From Net: NetName=+5 Pin=R232-1
+Removed Pin From Net: NetName=Net*2_2 Pin=R234-1
+Removed Pin From Net: NetName=GND Pin=R234-2
+Removed Pin From Net: NetName=Net*2_14 Pin=R235-1
+Removed Pin From Net: NetName=NetC37_2 Pin=R236-1
+Removed Pin From Net: NetName=GND Pin=R236-2
+Removed Pin From Net: NetName=GND Pin=R238-1
+Removed Pin From Net: NetName=GND Pin=R239-1
+Removed Pin From Net: NetName=+5 Pin=R240-2
+Removed Pin From Net: NetName=GND Pin=R241-1
+Removed Pin From Net: NetName=GND Pin=R242-2
+Removed Pin From Net: NetName=+5 Pin=RP14-1
+Removed Pin From Net: NetName=GND Pin=RP14-3
+Removed Pin From Net: NetName=GND Pin=RP15-2
+Removed Pin From Net: NetName=GND Pin=RP15-3
+Removed Pin From Net: NetName=+5 Pin=RP16-1
+Removed Pin From Net: NetName=Net*3_2 Pin=RP16-2
+Removed Pin From Net: NetName=GND Pin=RP16-3
+Removed Pin From Net: NetName=+5 Pin=RP17-1
+Removed Pin From Net: NetName=GND Pin=RP17-3
+Removed Pin From Net: NetName=NetC11_1 Pin=RP18-1
+Removed Pin From Net: NetName=+5 Pin=RP19-1
+Removed Pin From Net: NetName=GND Pin=RP19-3
+Removed Pin From Net: NetName=GND Pin=RP20-2
+Removed Pin From Net: NetName=GND Pin=RP20-3
+Removed Pin From Net: NetName=+5 Pin=RP21-1
+Removed Pin From Net: NetName=Net*1_2 Pin=RP21-2
+Removed Pin From Net: NetName=GND Pin=RP21-3
+Removed Pin From Net: NetName=+5 Pin=RP22-1
+Removed Pin From Net: NetName=GND Pin=RP22-3
+Removed Pin From Net: NetName=+5 Pin=RP23-1
+Removed Pin From Net: NetName=GND Pin=RP23-3
+Removed Pin From Net: NetName=GND Pin=RP24-2
+Removed Pin From Net: NetName=GND Pin=RP24-3
+Removed Pin From Net: NetName=+5 Pin=RP25-1
+Removed Pin From Net: NetName=Net*2_2 Pin=RP25-2
+Removed Pin From Net: NetName=GND Pin=RP25-3
+Removed Pin From Net: NetName=+5 Pin=RP26-1
+Removed Pin From Net: NetName=GND Pin=RP26-3
+Removed Pin From Net: NetName=+5 Pin=TP52-1
+Removed Pin From Net: NetName=Net*3_1 Pin=TP53-1
+Removed Pin From Net: NetName=+12 Pin=TP60-1
+Removed Pin From Net: NetName=+12 Pin=TP61-1
+Removed Pin From Net: NetName=Net*3_2 Pin=TP63-1
+Removed Pin From Net: NetName=NetC11_1 Pin=TP67-1
+Removed Pin From Net: NetName=Net*1_14 Pin=TP69-1
+Removed Pin From Net: NetName=Net*3_14 Pin=TP70-1
+Removed Pin From Net: NetName=+5 Pin=TP74-1
+Removed Pin From Net: NetName=Net*1_1 Pin=TP75-1
+Removed Pin From Net: NetName=+12 Pin=TP81-1
+Removed Pin From Net: NetName=Net*1_2 Pin=TP83-1
+Removed Pin From Net: NetName=Net*2_14 Pin=TP87-1
+Removed Pin From Net: NetName=Net*1_14 Pin=TP88-1
+Removed Pin From Net: NetName=+5 Pin=TP90-1
+Removed Pin From Net: NetName=Net*2_1 Pin=TP91-1
+Removed Pin From Net: NetName=+12 Pin=TP97-1
+Removed Pin From Net: NetName=Net*2_2 Pin=TP99-1
+Removed Pin From Net: NetName=Net*3_14 Pin=TP103-1
+Removed Pin From Net: NetName=Net*2_14 Pin=TP104-1
+Removed Pin From Net: NetName=GND Pin=U16-3
+Removed Pin From Net: NetName=GND Pin=U17-3
+Removed Pin From Net: NetName=GND Pin=U18-3
+Removed Pin From Net: NetName=GND Pin=U19-3
+Removed Pin From Net: NetName=GND Pin=U20-3
+Removed Pin From Net: NetName=GND Pin=U21-3
+Change Component Footprint: Designator=C2 Old Footprint=KEMET_C0805C-DN_IPC_A New Footprint=POLAR0.8
+Change Component Footprint: Designator=C3 Old Footprint=KEMET_C0805C-DN_IPC_A New Footprint=POLAR0.8
+Change Component Footprint: Designator=R36 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Vishay_CRCW0805-e3_IPC_C
+Change Component Footprint: Designator=R42 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Vishay_CRCW0805-e3_IPC_C
+Change Component Footprint: Designator=R41 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Vishay_CRCW0805-e3_MFG
+Change Component Footprint: Designator=D4 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D5 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D10 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D11 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D17 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D18 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Description : Designator=R36 Old Description=10k New Description=
+Change Component Description : Designator=R41 Old Description=10k New Description=
+Change Component Description : Designator=RP4 Old Description=10k New Description=
+Change Component Description : Designator=RP9 Old Description=10k New Description=
+Change Component Description : Designator=RP13 Old Description=10k New Description=
+Change Component Description : Designator=R42 Old Description=50k New Description=
+Change component parameters: Designator = "R36" ("R36"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\QBVNGMHC" ("\QBVNGMHC")
+Change component parameters: Designator = "R41" ("R41"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\SLQQDXIC" ("\SLQQDXIC")
+Change component parameters: Designator = "R42" ("R42"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\MXWIOEND" ("\MXWIOEND")
+Change component parameters: Designator = "C2" ("C2"); Footprint = "KEMET_C0805C-DN_IPC_A"; UniqueID = "\NSUOOGPX" ("\NSUOOGPX")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "KEMET_C0805C-DN_IPC_A"; UniqueID = "\EMIBJAEU" ("\EMIBJAEU")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net*3_1 New Net Name=Net*_1
+Change Net Name : Old Net Name=Net*3_2 New Net Name=Net*_2
+Change Net Name : Old Net Name=Net*3_14 New Net Name=Net*_14
+Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
+Change Room Name: Old Name=Dual_chanel New Name=levit_0.1 
+Change Room Scope: Old Scope=InComponentClass('Dual_chanel') New Scope=InComponentClass('levit_0.1 ')

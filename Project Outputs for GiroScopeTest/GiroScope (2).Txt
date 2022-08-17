@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GiroScopeTest.PrjPcb]
+   Generated File[GiroScope.TXT]
+   Generated File[GiroScope.DRL]
+   Generated File[GiroScope.LDP]
+   Generated File[GiroScope.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:03:20 On 17.08.2022
