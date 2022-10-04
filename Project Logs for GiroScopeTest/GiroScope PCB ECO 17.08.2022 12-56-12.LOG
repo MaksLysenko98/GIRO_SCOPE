@@ -1,8 +1,0 @@
-Change Net Name : Old Net Name=Net*3_1 New Net Name=Net*_1
-Change Net Name : Old Net Name=Net*3_2 New Net Name=Net*_2
-Change Net Name : Old Net Name=Net*3_14 New Net Name=Net*_14
-Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
-Added Member To Class: ClassName=levit_0.1  Member=Component TP24 Test_Point_PCB
-Added Member To Class: ClassName=levit_0.1  Member=Component TP25 Test_Point_PCB
-Added Member To Class: ClassName=levit_0.1  Member=Component TP28 Test_Point_PCB
-Change Room Name: Old Name=levit_0.1 New Name=levit_0.1 

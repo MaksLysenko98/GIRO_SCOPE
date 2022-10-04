@@ -1,4 +1,0 @@
-Added Component: Designator=D13(Vishay_S8-V-3910_01-001_IPC_A)
-Added Pin To Net: NetName=Net*2_12 Pin=D13-1
-Added Pin To Net: NetName=Net*2_7 Pin=D13-2
-Added Member To Class: ClassName=levit_0.1  Member=Component D13 1N4148W-7-F
