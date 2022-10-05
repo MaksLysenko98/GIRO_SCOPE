@@ -1,0 +1,5 @@
+Added Component: Designator=VT3(PCBComponent_1)
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *1 LM324AD_SOIC14
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *2 LM324AD_SOIC14
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *3 LM324AD_SOIC14
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT3 B772
