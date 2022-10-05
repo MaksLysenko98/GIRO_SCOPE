@@ -58,6 +58,40 @@ GenerateClassCluster=0
 DocumentUniqueId=OPLXQRLG
 
 [Document2]
+DocumentPath=Connectors\Conn_Wurth_61300611121_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FAQUMONX
+
+[Document3]
+DocumentPath=Connectors\Conn_Wurth_61300611121_eec_0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MCXPRYNE
+
+[Document4]
 DocumentPath=Jumper_2.54.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSKHJDJS
 
-[Document3]
+[Document5]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNIHHKLE
 
-[Document4]
+[Document6]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVBRAYEB
 
-[Document5]
+[Document7]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKGMGULD
 
-[Document6]
+[Document8]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJJFNTER
 
-[Document7]
+[Document9]
 DocumentPath=Test_Point.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHEDDXTT
 
-[Document8]
+[Document10]
 DocumentPath=LM324AD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SDWYSYMW
 
-[Document9]
+[Document11]
 DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWEKQSBO
 
-[Document10]
+[Document12]
 DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKQTLNTH
 
-[Document11]
+[Document13]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLSSRYYR
 
-[Document12]
+[Document14]
 DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLYAMGHR
 
-[Document13]
+[Document15]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYBMFNJF
 
-[Document14]
+[Document16]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUMRFNIF
 
-[Document15]
+[Document17]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFABURAD
 
-[Document16]
+[Document18]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDJJVIAA
 
-[Document17]
+[Document19]
 DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\TO229P991X239-3_4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BEGOGYMR
 
-[Document18]
+[Document20]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVWRTILE
 
-[Document19]
+[Document21]
 DocumentPath=Res_Bourns_3296W-1-202LF_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYFLHCGD
 
-[Document20]
+[Document22]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFBKISUF
 
-[Document21]
+[Document23]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUGOXLPV
 
-[Document22]
+[Document24]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFEJYVPF
 
-[Document23]
+[Document25]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKRCOEOF
 
-[Document24]
+[Document26]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLYAMGHR
 
-[Document25]
+[Document27]
 DocumentPath=MMBT2907A\2022-09-22_11-50-51\MMBT2907ALT1G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDJDNISJ
 
-[Document26]
+[Document28]
 DocumentPath=IC_ON Semiconductor_LM2576D2T-005G\parts\IC_ON_Semiconductor_LM2576D2T-005G_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -482,7 +516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOSEJEFA
 
-[Document27]
+[Document29]
 DocumentPath=ul_1N5339BG\AltiumDesigner\2022-10-04_07-45-05\1N5339BG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNBHTLFP
 
-[Document28]
+[Document30]
 DocumentPath=Jumper_1x2.54.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIFTRVZG
 
-[Document29]
+[Document31]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -533,7 +567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUPKJGQI
 
-[Document30]
+[Document32]
 DocumentPath=Test_Point.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -550,7 +584,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSUWXYSD
 
-[Document31]
+[Document33]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -567,7 +601,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOKIUUFH
 
-[Document32]
+[Document34]
 DocumentPath=Res_Bourns_3296W-1-202LF_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -584,7 +618,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSUIDNLX
 
-[Document33]
+[Document35]
 DocumentPath=LM324AD_SOIC14.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -601,7 +635,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYWXECQK
 
-[Document34]
+[Document36]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -618,7 +652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPVHRZES
 
-[Document35]
+[Document37]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -635,7 +669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCPGYQKH
 
-[Document36]
+[Document38]
 DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -652,7 +686,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRTGEUMW
 
-[Document37]
+[Document39]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -669,7 +703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYDHOEHL
 
-[Document38]
+[Document40]
 DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHUGGUSZ
 
-[Document39]
+[Document41]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRTGEUMW
 
-[Document40]
+[Document42]
 DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\IRFR9024N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -720,7 +754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWSOWJIJ
 
-[Document41]
+[Document43]
 DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -737,7 +771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMNOQQRQ
 
-[Document42]
+[Document44]
 DocumentPath=ul_1N5339BG\AltiumDesigner\2022-10-04_07-45-05\1N5339BG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -754,7 +788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWFECPWH
 
-[Document43]
+[Document45]
 DocumentPath=MMBT2907A\2022-09-22_11-50-51\MMBT2907ALT1G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -771,7 +805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOQRNJQO
 
-[Document44]
+[Document46]
 DocumentPath=IC_ON Semiconductor_LM2576D2T-005G\parts\IC_ON_Semiconductor_LM2576D2T-005G_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -788,7 +822,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YAEDLRWN
 
-[Document45]
+[Document47]
 DocumentPath=ul_1N5349BRLG\AltiumDesigner\2022-10-04_09-23-05\1N5349BRLG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -805,7 +839,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODKLXYBE
 
-[Document46]
+[Document48]
 DocumentPath=ul_1N5349BRLG\AltiumDesigner\2022-10-04_09-23-05\1N5349BRLG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -822,7 +856,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XISKIIXS
 
-[Document47]
+[Document49]
 DocumentPath=PNP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -839,7 +873,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPFGMJSV
 
-[Document48]
+[Document50]
 DocumentPath=Giro_scope_2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -856,7 +890,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBRHTBWQ
 
-[Document49]
+[Document51]
 DocumentPath=B772.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1367,91 +1401,61 @@ Name=Export Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Ansoft Neutral
-OutputName1=Ansoft Neutral (AutoPCB)
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=AutoCAD dwg/dxf PCB
-OutputName2=AutoCAD dwg/dxf File PCB
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=AutoCAD dwg/dxf Schematic
-OutputName3=AutoCAD dwg/dxf File Schematic
+OutputType3=ExportIDF
+OutputName3=Export IDF
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=ExportIDF
-OutputName4=Export IDF
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=ExportPARASOLID
-OutputName5=Export PARASOLID
+OutputType5=ExportSTEP
+OutputName5=Export STEP
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ExportSTEP
-OutputName6=Export STEP
+OutputType6=ExportVRML
+OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=ExportVRML
-OutputName7=Export VRML
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
 OutputDocumentPath7=
-OutputVariantName7=[No Variations]
+OutputVariantName7=
 OutputDefault7=0
-OutputType8=HyperLynx
-OutputName8=HyperLynx (AutoPCB)
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=MBAExportPARASOLID
-OutputName9=Export PARASOLID
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportSTEP
-OutputName10=Export STEP
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=Orcad v7 Capture Design
-OutputName11=Orcad v7 Capture Design (AutoSCH)
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=P-CAD ASCII
-OutputName12=P-CAD ASCII (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=P-CAD V16 Schematic Design
-OutputName13=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Save As/Export PCB
-OutputName14=Save As/Export PCB
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Save As/Export Schematic
-OutputName15=Save As/Export Schematic
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=SiSoft
-OutputName16=SiSoft (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=Specctra Design PCB
-OutputName17=Specctra Design PCB
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
