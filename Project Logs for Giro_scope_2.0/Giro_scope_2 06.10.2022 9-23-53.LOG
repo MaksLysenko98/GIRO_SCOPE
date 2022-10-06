@@ -1,9 +1,0 @@
-Added Component: Designator=TP50(Test_Point)
-Added Component: Designator=TP51(Test_Point)
-Added Component: Designator=TP52(Test_Point)
-Added Pin To Net: NetName=Net*1_14 Pin=TP50-1
-Added Pin To Net: NetName=Net*2_14 Pin=TP51-1
-Added Pin To Net: NetName=Net*3_14 Pin=TP52-1
-Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP50 Test_Point_PCB
-Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP51 Test_Point_PCB
-Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP52 Test_Point_PCB
