@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5 Pin=U2-1
+Removed Pin From Net: NetName=-5 Pin=U2-2
+Removed Pin From Net: NetName=+12 Pin=Z1-1
+Removed Pin From Net: NetName=-12 Pin=Z1-2
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=U2
+Change Component Footprint: Designator=Z1 Old Footprint=DIOAD2260W109L864D349 New Footprint=BZX85C5V1(YJ)
+Change Component Comment : Designator=Z1 Old Comment=1N5349BRLG New Comment=Zenner Diode 5v1
+Change component parameters: Designator = "Z1" ("Z1"); Footprint = "DIOAD2260W109L864D349"; UniqueID = "\LSNTPFGR" ("\LSNTPFGR")
+Added Component: Designator=Z2(1N5927(ON))
+Added Pin To Net: NetName=+5 Pin=Z1-1
+Added Pin To Net: NetName=-5 Pin=Z1-2
+Added Pin To Net: NetName=+12 Pin=Z2-1
+Added Pin To Net: NetName=-12 Pin=Z2-2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C6 EEE1HA101AP
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R41 5.1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component Z2 1N5927
