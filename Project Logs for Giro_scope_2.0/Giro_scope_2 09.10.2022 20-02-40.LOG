@@ -1,0 +1,216 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R6
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R9
+Added Component: Designator=D?(ONSC-SOD-323-2-477-02_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MM3Z2V4ST1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/477-02.PDF.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P Max (W)"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SOD, Body 1.7 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD-323-2-477-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. H, 03/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SZMM3Z5V1ST1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Added Component: Designator=HS1(SS495E_Hall_Sensor)
+Added Pin To Net: NetName=NetC1_2 Pin=D?-1
+Added Pin To Net: NetName=NetC1_2 Pin=HS1-1
+Added Pin To Net: NetName=NetHS1_3 Pin=HS1-3
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D?-2
+Added Pin To Net: NetName=NetC1_1 Pin=HS1-2
+Added Pin To Net: NetName=NetC1_1 Pin=P2-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *1 LM324AD_SOIC14
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *2 LM324AD_SOIC14
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *3 LM324AD_SOIC14
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C2 2.2u
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C3 0.1uF
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C4 EEE1HA101AP
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C5 0.1uF
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C6 EEE1HA101AP
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C7 2.2u
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C8 2.2u
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C9 EEE1HA101AP
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C10 EEE1HA101AP
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C11 100n
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C12 100pF
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C13 100pF
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C14 100pF
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component CR1 1N5822RL
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D1 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D2 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D3 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D4 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D5 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D6 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D7 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D8 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D9 LED2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component D? SZMM3Z5V1ST1G
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component HS1 Hall_Sensor
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J1 691103110003
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J4 61300611121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J6 61300611121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J8 61300611121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J11 61300611121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J13 61300611121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J16 61300611121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component J17 691101710002
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component P1 61900311121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component P3 61900311121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component P4 61900311121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component P5 61900311121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component P6 61900311121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component P7 61900311121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component P8 61900811121
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R2 100k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R3 1M
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R4 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R5 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R7 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R12 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R13 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R14 1M
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R15 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R16 620
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R17 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R18 3.3k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R20 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R21 100k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R22 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R23 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R24 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R25 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R26 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R27 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R28 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R29 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R30 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R31 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R32 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R33 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R34 1M
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R35 5.1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R36 5.1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R37 5.1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R38 100k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R40 5.1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R41 5.1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R42 5.1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R43 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R44 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R45 3.3k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R46 100k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R48 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R49 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R50 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R52 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R53 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R54 1M
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R55 47k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R56 100k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R57 620
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R58 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R59 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R60 3.3k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R61 3.3k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R63 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R64 100k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R65 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R66 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R67 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R68 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R69 620
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R70 620
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R71 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R72 10K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R73 3.3k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R74 1M
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R76 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R77 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R80 1M
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R81 620
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R82 3.3k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R83 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R85 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R86 620
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R87 620
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R88 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R89 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R90 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R91 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R92 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R93 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R94 1K
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R95 ERJ-14YJ242U
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R96 51k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R97 51k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R98 51k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R99 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R100 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R101 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RG1 Reg_Fairchild_LM7805CT_eec
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP1 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP2 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP3 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP4 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP5 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP6 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP7 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP8 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP9 10k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP10 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP11 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP1 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP2 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP3 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP6 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP7 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP8 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP9 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP10 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP13 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP14 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP15 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP16 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP20 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP21 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP22 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP25 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP26 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP27 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP28 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP29 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP30 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP34 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP36 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP37 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP40 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP41 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP45 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP46 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP47 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP48 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP49 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP50 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP51 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP52 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP53 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP54 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP55 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP56 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP57 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component U2 LM7812CT
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component U3 IC_Nexperia_TL431AQDBZR,215_eec
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component Z1 Zenner Diode 5v1
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component Z2 1N5927
