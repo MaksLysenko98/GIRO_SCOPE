@@ -1007,7 +1007,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DBRHTBWQ
+DocumentUniqueId=LQXTHMAC
 
 [Document58]
 DocumentPath=B772.PcbLib
@@ -1095,6 +1095,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DDNPRKAL
 
 [Document63]
+DocumentPath=D882.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ACBFMAFB
+
+[Document64]
 DocumentPath=1N5927(ON).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1111,7 +1128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEAJSOGU
 
-[Document64]
+[Document65]
 DocumentPath=SS49E_Hall.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1128,7 +1145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLFLOSYA
 
-[Document65]
+[Document66]
 DocumentPath=1N5927(ON).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1145,7 +1162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNVQLGFB
 
-[Document66]
+[Document67]
 DocumentPath=BZX85C5v1(YJ).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1162,7 +1179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNQFKTLJ
 
-[Document67]
+[Document68]
 DocumentPath=BZX85C5V1(YJ).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1179,7 +1196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVKYQISG
 
-[Document68]
+[Document69]
 DocumentPath=2.54_Connector_x6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1196,7 +1213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKIZZYIK
 
-[Document69]
+[Document70]
 DocumentPath=2.54_Connector_x6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1212,6 +1229,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWESDTTA
+
+[Document71]
+DocumentPath=B772.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LVDSPOAA
+
+[Document72]
+DocumentPath=PMBTA06.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLCIUDJO
 
 [Configuration1]
 Name=Sources
@@ -1568,6 +1619,10 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=ForceUpdateSettings
+Configuration4_Item1=False
+Configuration4_Name2=OutputConfigurationParameter1
+Configuration4_Item2=Record=ExportCommentsView|IncludeEntireDesign=False|IncludeOriginalScreenshot=False|DocumentPath=[Project]
 OutputType5=ReportHierarchy
 OutputName5=Report Project Hierarchy
 OutputDocumentPath5=

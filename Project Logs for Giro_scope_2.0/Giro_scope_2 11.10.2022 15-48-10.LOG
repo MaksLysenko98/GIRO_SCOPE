@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=VT1-3
+Removed Pin From Net: NetName=NetR8_2 Pin=VT2-3
+Removed Pin From Net: NetName=NetVT3_1 Pin=VT4-2
+Removed Pin From Net: NetName=NetR8_2 Pin=VT4-3
+Removed Pin From Net: NetName=NetJ2_2 Pin=VT5-3
+Removed Pin From Net: NetName=NetR10_2 Pin=VT6-3
+Removed Pin From Net: NetName=NetJ9_1 Pin=VT9-3
+Removed Pin From Net: NetName=NetR39_2 Pin=VT10-3
+Removed Pin From Net: NetName=NetVT11_1 Pin=VT12-2
+Removed Pin From Net: NetName=NetR39_2 Pin=VT12-3
+Removed Pin From Net: NetName=NetJ9_2 Pin=VT13-3
+Removed Pin From Net: NetName=NetR47_2 Pin=VT14-3
+Removed Pin From Net: NetName=NetJ14_1 Pin=VT17-3
+Removed Pin From Net: NetName=NetR75_2 Pin=VT18-3
+Removed Pin From Net: NetName=NetVT19_1 Pin=VT20-2
+Removed Pin From Net: NetName=NetR75_2 Pin=VT20-3
+Removed Pin From Net: NetName=NetJ14_2 Pin=VT21-3
+Removed Pin From Net: NetName=NetR78_2 Pin=VT22-3
+Change Component Footprint: Designator=VT6 Old Footprint=SOT-23_ONS New Footprint=SOT-23_ONS-M
+Change Component Footprint: Designator=VT14 Old Footprint=SOT-23_ONS New Footprint=SOT-23_ONS-M
+Change Component Footprint: Designator=VT22 Old Footprint=SOT-23_ONS New Footprint=SOT-23_ONS-M
+Change Component Footprint: Designator=VT2 Old Footprint=SOT-23_ONS-L New Footprint=SOT-23_ONS-M
+Change Component Footprint: Designator=VT10 Old Footprint=SOT-23_ONS-L New Footprint=SOT-23_ONS-M
+Change Component Footprint: Designator=VT18 Old Footprint=SOT-23_ONS-L New Footprint=SOT-23_ONS-M
+Change Component Footprint: Designator=VT7 Old Footprint=SOT-23_ONS-M New Footprint=SOT-23_ONS
+Change Component Footprint: Designator=VT16 Old Footprint=SOT-23_ONS-M New Footprint=SOT-23_ONS
+Change Component Footprint: Designator=VT24 Old Footprint=SOT-23_ONS-M New Footprint=SOT-23_ONS
+Change Component Comment : Designator=VT4 Old Comment=MMBT2907A New Comment=MMBT2907
+Change Component Comment : Designator=VT7 Old Comment=MMBT2907A New Comment=MMBT2907
+Change Component Comment : Designator=VT12 Old Comment=MMBT2907A New Comment=MMBT2907
+Change Component Comment : Designator=VT16 Old Comment=MMBT2907A New Comment=MMBT2907
+Change Component Comment : Designator=VT20 Old Comment=MMBT2907A New Comment=MMBT2907
+Change Component Comment : Designator=VT24 Old Comment=MMBT2907A New Comment=MMBT2907
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change component parameters: Designator = "VT4" ("VT4"); Footprint = "SOT-23_ONS"; UniqueID = "\RGPOESCZ" ("\RGPOESCZ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2907ALT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT7" ("VT7"); Footprint = "SOT-23_ONS-M"; UniqueID = "\NCOFATKC" ("\NCOFATKC")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2907ALT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT12" ("VT12"); Footprint = "SOT-23_ONS"; UniqueID = "\KFFFAFRZ" ("\KFFFAFRZ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2907ALT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT16" ("VT16"); Footprint = "SOT-23_ONS-M"; UniqueID = "\HTKMUTVI" ("\HTKMUTVI")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2907ALT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT20" ("VT20"); Footprint = "SOT-23_ONS"; UniqueID = "\OSXFLNWU" ("\OSXFLNWU")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2907ALT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT24" ("VT24"); Footprint = "SOT-23_ONS-M"; UniqueID = "\YWLTVJXR" ("\YWLTVJXR")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2907ALT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_1 Pin=VT1-1
+Added Pin To Net: NetName=NetR8_2 Pin=VT2-2
+Added Pin To Net: NetName=NetR8_2 Pin=VT4-2
+Added Pin To Net: NetName=NetVT3_1 Pin=VT4-3
+Added Pin To Net: NetName=NetJ2_2 Pin=VT5-1
+Added Pin To Net: NetName=NetR10_2 Pin=VT6-2
+Added Pin To Net: NetName=NetJ9_1 Pin=VT9-1
+Added Pin To Net: NetName=NetR39_2 Pin=VT10-2
+Added Pin To Net: NetName=NetR39_2 Pin=VT12-2
+Added Pin To Net: NetName=NetVT11_1 Pin=VT12-3
+Added Pin To Net: NetName=NetJ9_2 Pin=VT13-1
+Added Pin To Net: NetName=NetR47_2 Pin=VT14-2
+Added Pin To Net: NetName=NetJ14_1 Pin=VT17-1
+Added Pin To Net: NetName=NetR75_2 Pin=VT18-2
+Added Pin To Net: NetName=NetR75_2 Pin=VT20-2
+Added Pin To Net: NetName=NetVT19_1 Pin=VT20-3
+Added Pin To Net: NetName=NetJ14_2 Pin=VT21-1
+Added Pin To Net: NetName=NetR78_2 Pin=VT22-2
+Added Pin To Net: NetName=NetVT1_3 Pin=VT1-3
+Added Pin To Net: NetName=NetVT1_3 Pin=VT2-3
+Added Net: Name=NetVT1_3
+Added Pin To Net: NetName=NetVT5_3 Pin=VT5-3
+Added Pin To Net: NetName=NetVT5_3 Pin=VT6-3
+Added Net: Name=NetVT5_3
+Added Pin To Net: NetName=NetVT9_3 Pin=VT9-3
+Added Pin To Net: NetName=NetVT9_3 Pin=VT10-3
+Added Net: Name=NetVT9_3
+Added Pin To Net: NetName=NetVT13_3 Pin=VT13-3
+Added Pin To Net: NetName=NetVT13_3 Pin=VT14-3
+Added Net: Name=NetVT13_3
+Added Pin To Net: NetName=NetVT17_3 Pin=VT17-3
+Added Pin To Net: NetName=NetVT17_3 Pin=VT18-3
+Added Net: Name=NetVT17_3
+Added Pin To Net: NetName=NetVT21_3 Pin=VT21-3
+Added Pin To Net: NetName=NetVT21_3 Pin=VT22-3
+Added Net: Name=NetVT21_3
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT8 B772
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT9 D882
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT11 B772
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT13 D882
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT15 B772
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT17 D882
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT19 B772
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component VT23 B772

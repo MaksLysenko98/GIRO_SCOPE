@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ACS712ELCTR_20A_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "VCC_MAX", "VCC_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY";
+{========================================================================================}
+ "Allegro Microsystems", "ACS712ELCTR-20A-T" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "250-712ELCTR20AT", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/ACS712ELCTR-20A-T?qs=pUKx8fyJudBUdhIPMFjOBQ%3D%3D", "ACS712ELCTR-20A-T", "https://www.arrow.com/en/products/acs712elctr-20a-t/allegro-microsystems", "", "", "Fully Integrated, Hall-Effect-Based Linear Current Sensor IC with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-0/sf-000553.pdf", "1.75 mm", "165", "", "", "", "CURRENT SENSOR & TRANSDUCER SMD", "SOIC-8", "23", "8", "-0.1", "3m", "", "13m", "", "", "", "", "BICMOS"
+END_PART
+
+END.
