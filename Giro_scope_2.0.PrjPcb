@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Giro_scope_2.0
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1010,6 +1010,40 @@ GenerateClassCluster=0
 DocumentUniqueId=LQXTHMAC
 
 [Document58]
+DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG(green).PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWQSEBKG
+
+[Document59]
+DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG(blue).PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RRPCWRSG
+
+[Document60]
 DocumentPath=B772.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1026,7 +1060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNDCEOAN
 
-[Document59]
+[Document61]
 DocumentPath=Giro_scope_2.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1043,7 +1077,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document62]
 DocumentPath=ul_ERJ-14YJ242U\AltiumDesigner\2022-10-07_08-06-25\ERJ-14YJ242U.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1060,7 +1094,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTTYQDTR
 
-[Document61]
+[Document63]
+DocumentPath=ACS712.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SLKSOAYM
+
+[Document64]
+DocumentPath=..\..\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document65]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Diode_On Semiconductor_SZMM3Z5V1ST1G\parts\On_Semiconductor_SZMM3Z5V1ST1G_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1077,7 +1145,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHTUKIGR
 
-[Document62]
+[Document66]
+DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG(yellow).PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SFABURAD
+
+[Document67]
 DocumentPath=D882.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1094,7 +1179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDNPRKAL
 
-[Document63]
+[Document68]
 DocumentPath=D882.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1111,7 +1196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACBFMAFB
 
-[Document64]
+[Document69]
 DocumentPath=1N5927(ON).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1128,7 +1213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEAJSOGU
 
-[Document65]
+[Document70]
 DocumentPath=SS49E_Hall.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1145,7 +1230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLFLOSYA
 
-[Document66]
+[Document71]
 DocumentPath=1N5927(ON).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1162,7 +1247,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNVQLGFB
 
-[Document67]
+[Document72]
+DocumentPath=..\..\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
+[Document73]
 DocumentPath=BZX85C5v1(YJ).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1179,7 +1281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNQFKTLJ
 
-[Document68]
+[Document74]
 DocumentPath=BZX85C5V1(YJ).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1196,7 +1298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVKYQISG
 
-[Document69]
+[Document75]
 DocumentPath=2.54_Connector_x6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1213,7 +1315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKIZZYIK
 
-[Document70]
+[Document76]
 DocumentPath=2.54_Connector_x6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1230,7 +1332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWESDTTA
 
-[Document71]
+[Document77]
 DocumentPath=B772.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1247,7 +1349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVDSPOAA
 
-[Document72]
+[Document78]
 DocumentPath=PMBTA06.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1263,23 +1365,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLCIUDJO
-
-[Document73]
-DocumentPath=ACS712.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SLKSOAYM
 
 [Configuration1]
 Name=Sources
@@ -1328,7 +1413,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Giro_scope_2.0
 
 [OutputGroup1]
 Name=Netlist Outputs
