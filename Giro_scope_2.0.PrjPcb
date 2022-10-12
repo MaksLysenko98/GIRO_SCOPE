@@ -1265,7 +1265,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BLCIUDJO
 
 [Document73]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=ACS712.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
