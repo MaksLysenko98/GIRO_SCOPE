@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for Giro_scope_2.0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1007,7 +1007,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LQXTHMAC
+DocumentUniqueId=XYJNLCEI
 
 [Document58]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG(green).PcbLib
@@ -1413,7 +1413,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Giro_scope_2.0
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
