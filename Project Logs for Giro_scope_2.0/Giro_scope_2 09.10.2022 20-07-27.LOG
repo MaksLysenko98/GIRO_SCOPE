@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=D? Old Footprint=ONSC-SOD-323-2-477-02_V New Footprint=ONSC-SOD-323-2-477-02_V
-Added Component: Designator=HS1(SS495E_Hall_Sensor)
-Added Pin To Net: NetName=NetC1_2 Pin=HS1-1
-Added Pin To Net: NetName=NetC1_1 Pin=HS1-2
-Added Pin To Net: NetName=NetHS1_3 Pin=HS1-3
-Added Member To Class: ClassName=Giro_scope_2.0 Member=Component HS1 Hall_Sensor

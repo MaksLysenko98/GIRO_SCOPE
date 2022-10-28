@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=D2 Old Footprint=Wurth_Electronics_0_MFG New Footprint=LED_BLUE
-Change Component Footprint: Designator=D4 Old Footprint=Wurth_Electronics_0_MFG New Footprint=LED_BLUE
-Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C19 0.1uF
-Added Member To Class: ClassName=Giro_scope_2.0 Member=Component IC1 ACS712ELCTR-20A-T
