@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=VCC Pin=R76-1
+Removed Pin From Net: NetName=VCC Pin=R77-1
+Removed Pin From Net: NetName=GND Pin=R86-2
+Removed Pin From Net: NetName=GND Pin=R87-2
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=D13
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R76
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R77
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R83
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R86
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R87
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R95
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=R102
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=RP10
+Added Component: Designator=TP58(Test_Point)
+Added Component: Designator=TP59(Test_Point)
+Added Pin To Net: NetName=VCC Pin=*1-4
+Added Pin To Net: NetName=GND Pin=*1-11
+Added Pin To Net: NetName=VCC Pin=*2-4
+Added Pin To Net: NetName=GND Pin=*2-11
+Added Pin To Net: NetName=VCC Pin=*3-4
+Added Pin To Net: NetName=GND Pin=*3-11
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCC Pin=P8-7
+Added Pin To Net: NetName=GND Pin=P8-8
+Added Pin To Net: NetName=VCC Pin=R36-2
+Added Pin To Net: NetName=GND Pin=R42-2
+Added Pin To Net: NetName=GND Pin=R99-2
+Added Pin To Net: NetName=GND Pin=R100-2
+Added Pin To Net: NetName=GND Pin=R101-2
+Added Pin To Net: NetName=VCC Pin=RP6-1
+Added Pin To Net: NetName=GND Pin=RP6-3
+Added Pin To Net: NetName=NetR45_2 Pin=TP48-1
+Added Pin To Net: NetName=NetR60_2 Pin=TP49-1
+Added Pin To Net: NetName=VCC Pin=TP53-1
+Added Pin To Net: NetName=NetR73_2 Pin=TP58-1
+Added Pin To Net: NetName=Net*1_5 Pin=TP59-1
+Change Net Name : Old Net Name=GND New Net Name=-12
+Change Net Name : Old Net Name=VCC New Net Name=+12
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP58 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP59 Test_Point_PCB

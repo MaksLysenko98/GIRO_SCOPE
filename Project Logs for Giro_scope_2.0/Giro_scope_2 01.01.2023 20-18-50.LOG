@@ -1,0 +1,10 @@
+Added Component: Designator=TP58(Test_Point)
+Added Component: Designator=TP59(Test_Point)
+Added Component: Designator=Z3(BZX85C5V1(YJ))
+Added Pin To Net: NetName=NetR73_2 Pin=TP58-1
+Added Pin To Net: NetName=Net*1_5 Pin=TP59-1
+Added Pin To Net: NetName=+5 Pin=Z3-1
+Added Pin To Net: NetName=-5 Pin=Z3-2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP58 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP59 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component Z3 Zenner Diode 5v1

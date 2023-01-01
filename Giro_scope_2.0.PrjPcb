@@ -687,6 +687,23 @@ GenerateClassCluster=0
 DocumentUniqueId=LYWXECQK
 
 [Document39]
+DocumentPath=Trans_TIP31C\parts\Trans_STMicroelectronics_TIP31C_eec_MFG.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RCMKAIVE
+
+[Document40]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPVHRZES
 
-[Document40]
+[Document41]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -720,7 +737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCPGYQKH
 
-[Document41]
+[Document42]
 DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -737,7 +754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJAQRIQR
 
-[Document42]
+[Document43]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -754,7 +771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYDHOEHL
 
-[Document43]
+[Document44]
 DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -771,7 +788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHUGGUSZ
 
-[Document44]
+[Document45]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -788,7 +805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRTGEUMW
 
-[Document45]
+[Document46]
 DocumentPath=..\Giro_scope_2.0\PCB_Project\IC_ON Semiconductor_LM7812CT\parts\IC_ON_Semiconductor_LM7812CT_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -805,7 +822,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSHBEVIE
 
-[Document46]
+[Document47]
 DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\IRFR9024N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -822,7 +839,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWSOWJIJ
 
-[Document47]
+[Document48]
 DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -839,7 +856,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMNOQQRQ
 
-[Document48]
+[Document49]
 DocumentPath=ul_ERJ-14YJ242U\AltiumDesigner\2022-10-07_08-06-25\ERJ-14YJ242U.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -856,7 +873,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOIBZXAV
 
-[Document49]
+[Document50]
 DocumentPath=ul_1N5339BG\AltiumDesigner\2022-10-04_07-45-05\1N5339BG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -873,7 +890,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWFECPWH
 
-[Document50]
+[Document51]
 DocumentPath=Hall_Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -890,7 +907,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNDEOHNW
 
-[Document51]
+[Document52]
 DocumentPath=MMBT2907A\2022-09-22_11-50-51\MMBT2907ALT1G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -907,7 +924,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOQRNJQO
 
-[Document52]
+[Document53]
 DocumentPath=IC_ON Semiconductor_LM2576D2T-005G\parts\IC_ON_Semiconductor_LM2576D2T-005G_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -924,7 +941,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YAEDLRWN
 
-[Document53]
+[Document54]
 DocumentPath=..\Giro_scope_2.0\PCB_Project\IC_ON Semiconductor_LM7812CT\parts\IC_ON_Semiconductor_LM7812CT_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -941,7 +958,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFDNRSJD
 
-[Document54]
+[Document55]
 DocumentPath=ul_1N5349BRLG\AltiumDesigner\2022-10-04_09-23-05\1N5349BRLG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -958,7 +975,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODKLXYBE
 
-[Document55]
+[Document56]
+DocumentPath=Trans_TIP31C\parts\Trans_STMicroelectronics_TIP31C_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NIFJFQHF
+
+[Document57]
 DocumentPath=ul_1N5349BRLG\AltiumDesigner\2022-10-04_09-23-05\1N5349BRLG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -975,7 +1009,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XISKIIXS
 
-[Document56]
+[Document58]
 DocumentPath=PNP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -992,7 +1026,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPFGMJSV
 
-[Document57]
+[Document59]
 DocumentPath=Giro_scope_2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1009,7 +1043,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYJNLCEI
 
-[Document58]
+[Document60]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG(green).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1026,7 +1060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWQSEBKG
 
-[Document59]
+[Document61]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG(blue).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1043,7 +1077,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRPCWRSG
 
-[Document60]
+[Document62]
 DocumentPath=B772.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1060,7 +1094,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNDCEOAN
 
-[Document61]
+[Document63]
 DocumentPath=Giro_scope_2.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1077,7 +1111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document64]
 DocumentPath=ul_ERJ-14YJ242U\AltiumDesigner\2022-10-07_08-06-25\ERJ-14YJ242U.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1094,7 +1128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTTYQDTR
 
-[Document63]
+[Document65]
 DocumentPath=ACS712.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1111,7 +1145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLKSOAYM
 
-[Document64]
+[Document66]
 DocumentPath=..\..\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1128,7 +1162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document65]
+[Document67]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Diode_On Semiconductor_SZMM3Z5V1ST1G\parts\On_Semiconductor_SZMM3Z5V1ST1G_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1145,7 +1179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHTUKIGR
 
-[Document66]
+[Document68]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec_MFG(yellow).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1162,7 +1196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFABURAD
 
-[Document67]
+[Document69]
 DocumentPath=D882.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1179,7 +1213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDNPRKAL
 
-[Document68]
+[Document70]
 DocumentPath=D882.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1196,7 +1230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACBFMAFB
 
-[Document69]
+[Document71]
 DocumentPath=1N5927(ON).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1213,7 +1247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEAJSOGU
 
-[Document70]
+[Document72]
 DocumentPath=SS49E_Hall.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1230,7 +1264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLFLOSYA
 
-[Document71]
+[Document73]
 DocumentPath=1N5927(ON).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1247,7 +1281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNVQLGFB
 
-[Document72]
+[Document74]
 DocumentPath=..\..\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1264,7 +1298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document73]
+[Document75]
 DocumentPath=BZX85C5v1(YJ).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1281,7 +1315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNQFKTLJ
 
-[Document74]
+[Document76]
 DocumentPath=BZX85C5V1(YJ).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1298,7 +1332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVKYQISG
 
-[Document75]
+[Document77]
 DocumentPath=2.54_Connector_x6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1315,7 +1349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKIZZYIK
 
-[Document76]
+[Document78]
 DocumentPath=2.54_Connector_x6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1332,7 +1366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWESDTTA
 
-[Document77]
+[Document79]
 DocumentPath=B772.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1349,7 +1383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVDSPOAA
 
-[Document78]
+[Document80]
 DocumentPath=PMBTA06.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1366,7 +1400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLCIUDJO
 
-[Document79]
+[Document81]
 DocumentPath=..\Battery\Battery\Battery.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1383,7 +1417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PETCSTYQ
 
-[Document80]
+[Document82]
 DocumentPath=Battery.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1738,6 +1772,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -2363,7 +2409,7 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
