@@ -1,0 +1,7 @@
+Added Component: Designator=*(JE)
+Added Component: Designator=*(JE)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component * JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component * JE

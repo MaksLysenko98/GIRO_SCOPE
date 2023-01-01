@@ -1,0 +1,33 @@
+Change Component Comment : Designator=C4 Old Comment=0.1uF New Comment=0.47uF
+Change Component Comment : Designator=C8 Old Comment=0.1uF New Comment=0.47uF
+Change Component Comment : Designator=C12 Old Comment=0.1uF New Comment=0.47uF
+Change Component Description : Designator=R87 Old Description=1k New Description=10k
+Change Component Description : Designator=R88 Old Description=1k New Description=10k
+Change Component Description : Designator=R89 Old Description=1k New Description=10k
+Change Component Description : Designator=R82 Old Description=7.5k New Description=51k
+Change Component Description : Designator=R84 Old Description=7.5k New Description=51k
+Change Component Description : Designator=R85 Old Description=7.5k New Description=51k
+Change Component Description : Designator=C1 Old Description=100pF New Description=0.1uF
+Change Component Description : Designator=C3 Old Description=100pF New Description=0.1uF
+Change Component Description : Designator=C5 Old Description=100pF New Description=0.1uF
+Change Component Description : Designator=C9 Old Description=100pF New Description=0.1uF
+Change Component Description : Designator=C13 Old Description=100pF New Description=0.1uF
+Change Component Description : Designator=C14 Old Description=100pF New Description=0.1uF
+Change Component Description : Designator=C4 Old Description=100pF New Description=0.47uF
+Change Component Description : Designator=C8 Old Description=100pF New Description=0.47uF
+Change Component Description : Designator=C12 Old Description=100pF New Description=0.47uF
+Added Component: Designator=*(JE)
+Added Component: Designator=(JE)
+Added Pin To Net: NetName=NetJ21_3 Pin=*-2
+Added Pin To Net: NetName=NetJ21_3 Pin=-1
+Change Net Name : Old Net Name=NetJ21_3 New Net Name=Net*_2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=VT19-3
+Added Pin To Net: NetName=Net*_1 Pin=VT20-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_2 Pin=VT17-3
+Added Pin To Net: NetName=Net_2 Pin=VT18-3
+Added Net: Name=Net_2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component * JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component  JE
