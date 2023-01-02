@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=Net*_2 Pin=-1
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=
+Added Component: Designator=*?(JE)
+Added Component: Designator=*?(JE)
+Added Component: Designator=*?(JE)
+Added Component: Designator=*?(JE)
+Added Component: Designator=*?(JE)
+Added Component: Designator=*(JE)
+Added Pin To Net: NetName=Net*_2 Pin=*-1
+Added Pin To Net: NetName=NetTP56_1 Pin=*-2
+Added Pin To Net: NetName=Net*_1 Pin=*?-1
+Added Pin To Net: NetName=Net*_2 Pin=*?-1
+Added Pin To Net: NetName=NetJ15_5 Pin=*?-1
+Added Pin To Net: NetName=NetTP41_1 Pin=*?-1
+Added Pin To Net: NetName=Net*_2 Pin=*?-2
+Added Pin To Net: NetName=Net*_2 Pin=*?-2
+Added Pin To Net: NetName=NetJ15_5 Pin=*?-2
+Added Pin To Net: NetName=NetTP32_1 Pin=*?-2
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net*?_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*?_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*?_2
+Change Net Name : Old Net Name=NetJ15_5 New Net Name=Net*?_1
+Change Net Name : Old Net Name=NetTP32_1 New Net Name=Net*?_2
+Change Net Name : Old Net Name=NetTP41_1 New Net Name=Net*?_1
+Change Net Name : Old Net Name=NetTP56_1 New Net Name=Net*_2
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *? JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *? JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *? JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *? JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *? JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component * JE
