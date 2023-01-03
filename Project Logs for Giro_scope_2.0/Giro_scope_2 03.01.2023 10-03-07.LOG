@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=-5 Pin=J10-1
+Removed Pin From Net: NetName=Net*1_5 Pin=J10-2
+Removed Pin From Net: NetName=-5 Pin=J10-3
+Removed Pin From Net: NetName=Net*1_1 Pin=R19-2
+Removed Pin From Net: NetName=Net*1_1 Pin=R21-2
+Removed Pin From Net: NetName=Net*2_1 Pin=R44-2
+Removed Pin From Net: NetName=Net*2_1 Pin=R50-2
+Removed Pin From Net: NetName=Net*3_1 Pin=R78-2
+Removed Pin From Net: NetName=Net*3_1 Pin=R80-2
+Added Component: Designator=*15(JE)
+Added Component: Designator=*16(JE)
+Added Component: Designator=*17(JE)
+Added Pin To Net: NetName=Net*1_1 Pin=*15-2
+Added Pin To Net: NetName=Net*2_1 Pin=*16-2
+Added Pin To Net: NetName=Net*3_1 Pin=*17-2
+Added Pin To Net: NetName=Net*3_10 Pin=J10-1
+Added Pin To Net: NetName=Net*2_10 Pin=J10-2
+Added Pin To Net: NetName=Net*1_10 Pin=J10-3
+Added Pin To Net: NetName=Net*15_1 Pin=*15-1
+Added Pin To Net: NetName=Net*15_1 Pin=R19-2
+Added Pin To Net: NetName=Net*15_1 Pin=R21-2
+Added Net: Name=Net*15_1
+Added Pin To Net: NetName=Net*16_1 Pin=*16-1
+Added Pin To Net: NetName=Net*16_1 Pin=R44-2
+Added Pin To Net: NetName=Net*16_1 Pin=R50-2
+Added Net: Name=Net*16_1
+Added Pin To Net: NetName=Net*17_1 Pin=*17-1
+Added Pin To Net: NetName=Net*17_1 Pin=R78-2
+Added Pin To Net: NetName=Net*17_1 Pin=R80-2
+Added Net: Name=Net*17_1
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *15 JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *16 JE
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component *17 JE
