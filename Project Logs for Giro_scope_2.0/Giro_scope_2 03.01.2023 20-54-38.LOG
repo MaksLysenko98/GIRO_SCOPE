@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+5 Pin=R8-2
+Removed Pin From Net: NetName=+5 Pin=R9-2
+Removed Pin From Net: NetName=-5 Pin=R29-1
+Removed Pin From Net: NetName=-5 Pin=RP3-1
+Removed Pin From Net: NetName=-5 Pin=RP3-2
+Added Component: Designator=L1(WE-PD4-XL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/7445720.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 1, Oct-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "100 AµH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 22.0 x 15.0 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-PD4-XL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "7445720"; VariantName = "[No Variations]"
+Added Component: Designator=L2(WE-PD4-XL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/7445720.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 1, Oct-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "100 AµH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 22.0 x 15.0 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-PD4-XL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "7445720"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R8-2
+Added Pin To Net: NetName=NetL1_2 Pin=R9-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R29-1
+Added Pin To Net: NetName=NetL2_1 Pin=RP3-1
+Added Pin To Net: NetName=NetL2_1 Pin=RP3-2
+Added Net: Name=NetL2_1
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component L1 7445720
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component L2 7445720
