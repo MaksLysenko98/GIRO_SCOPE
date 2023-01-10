@@ -1,0 +1,6 @@
+Added Component: Designator=RP4(Bourns_3296W_MFG)
+Added Pin To Net: NetName=+5 Pin=RP4-1
+Added Pin To Net: NetName=Net*2_3 Pin=RP4-2
+Added Pin To Net: NetName=-5 Pin=RP4-3
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP3 100
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component RP4 10k

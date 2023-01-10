@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L1 Old Footprint=WE-PD4-XL New Footprint=WE-PD4-XL
+Change Component Footprint: Designator=L2 Old Footprint=WE-PD4-XL New Footprint=WE-PD4-XL
+Added Pin To Net: NetName=-5 Pin=L2-2

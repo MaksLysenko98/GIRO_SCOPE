@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC Pin=C12-1
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=VCC Pin=U4-1
+Added Component: Designator=CR2(DO-201AD_STM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N5822RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=CR2-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=CR2-1
+Added Pin To Net: NetName=NetC12_1 Pin=U4-1
+Added Net: Name=NetC12_1
+Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
+Added Member To Class: ClassName=levit_0.1  Member=Component CR2 1N5822RL
+Change Room Name: Old Name=levit_0.1 New Name=levit_0.1 

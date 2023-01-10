@@ -1,0 +1,17 @@
+Added Component: Designator=R119(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R120(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R121(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_14 Pin=R119-1
+Added Pin To Net: NetName=Net*_13 Pin=R119-2
+Added Pin To Net: NetName=NetC17_2 Pin=R120-1
+Added Pin To Net: NetName=Net*1_13 Pin=R120-2
+Added Pin To Net: NetName=Net*2_14 Pin=R121-1
+Added Pin To Net: NetName=Net*2_13 Pin=R121-2
+Added Member To Class: ClassName=levit_0.1  Member=Component *1 LM324AD_SOIC14
+Added Member To Class: ClassName=levit_0.1  Member=Component *2 LM324AD_SOIC14
+Added Member To Class: ClassName=levit_0.1  Member=Component R119 100k
+Added Member To Class: ClassName=levit_0.1  Member=Component R120 100k
+Added Member To Class: ClassName=levit_0.1  Member=Component R121 100k

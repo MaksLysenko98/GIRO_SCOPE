@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=R13-1
+Removed Pin From Net: NetName=Net*_13 Pin=R13-2
+Removed Pin From Net: NetName=NetD10_1 Pin=R40-1
+Removed Pin From Net: NetName=Net*1_13 Pin=R40-2
+Removed Pin From Net: NetName=NetD17_1 Pin=R66-1
+Removed Pin From Net: NetName=Net*2_13 Pin=R66-2
+Removed Member From Class: ClassName=levit_0.1  Member=R40
+Removed Member From Class: ClassName=levit_0.1  Member=R66
+Added Component: Designator=R6(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP49(Test_Point)
+Added Component: Designator=TP50(Test_Point)
+Added Component: Designator=TP51(Test_Point)
+Added Pin To Net: NetName=NetD4_1 Pin=R6-1
+Added Pin To Net: NetName=Net*_7 Pin=R6-2
+Added Pin To Net: NetName=NetD10_1 Pin=R13-1
+Added Pin To Net: NetName=Net*1_7 Pin=R13-2
+Added Pin To Net: NetName=NetD17_1 Pin=R17-1
+Added Pin To Net: NetName=Net*2_7 Pin=R17-2
+Added Pin To Net: NetName=Net*_7 Pin=TP49-1
+Added Pin To Net: NetName=Net*1_7 Pin=TP50-1
+Added Pin To Net: NetName=Net*2_7 Pin=TP51-1
+Added Member To Class: ClassName=levit_0.1  Member=Component R6 1k
+Added Member To Class: ClassName=levit_0.1  Member=Component R17 1k
+Added Member To Class: ClassName=levit_0.1  Member=Component TP49 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP50 Test_Point_PCB
+Added Member To Class: ClassName=levit_0.1  Member=Component TP51 Test_Point_PCB

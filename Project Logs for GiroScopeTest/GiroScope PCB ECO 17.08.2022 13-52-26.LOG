@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=Net*_2 Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=Net*_10 Pin=R23-2
+Removed Pin From Net: NetName=Net*_12 Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=Net*1_2 Pin=R47-1
+Removed Pin From Net: NetName=GND Pin=R47-2
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=Net*1_10 Pin=R50-2
+Removed Pin From Net: NetName=Net*1_12 Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=R53-2
+Removed Pin From Net: NetName=Net*2_2 Pin=R73-1
+Removed Pin From Net: NetName=GND Pin=R73-2
+Removed Pin From Net: NetName=GND Pin=R76-1
+Removed Pin From Net: NetName=Net*2_10 Pin=R76-2
+Removed Pin From Net: NetName=Net*2_12 Pin=R79-1
+Removed Pin From Net: NetName=GND Pin=R79-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R83-1
+Removed Pin From Net: NetName=GND Pin=R83-2
+Removed Pin From Net: NetName=NetC26_2 Pin=R84-1
+Removed Pin From Net: NetName=GND Pin=R84-2
+Removed Pin From Net: NetName=NetC27_2 Pin=R85-1
+Removed Pin From Net: NetName=GND Pin=R85-2
+Removed Pin From Net: NetName=NetC37_2 Pin=R88-1
+Removed Pin From Net: NetName=GND Pin=R88-2
+Removed Pin From Net: NetName=NetC28_2 Pin=R92-1
+Removed Pin From Net: NetName=GND Pin=R92-2
+Removed Pin From Net: NetName=NetC29_2 Pin=R93-1
+Removed Pin From Net: NetName=GND Pin=R93-2
+Removed Pin From Net: NetName=NetC30_2 Pin=R94-1
+Removed Pin From Net: NetName=GND Pin=R94-2
+Removed Pin From Net: NetName=NetC38_2 Pin=R97-1
+Removed Pin From Net: NetName=GND Pin=R97-2
+Removed Pin From Net: NetName=NetC39_2 Pin=R100-1
+Removed Pin From Net: NetName=GND Pin=R100-2
+Change Component Footprint: Designator=C2 Old Footprint=KEMET_C0805C-DN_IPC_A New Footprint=POLAR0.8
+Change Component Footprint: Designator=C3 Old Footprint=KEMET_C0805C-DN_IPC_A New Footprint=POLAR0.8
+Change Component Footprint: Designator=R36 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Vishay_CRCW0805-e3_IPC_C
+Change Component Footprint: Designator=R42 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Vishay_CRCW0805-e3_IPC_C
+Change Component Footprint: Designator=R41 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Vishay_CRCW0805-e3_MFG
+Change Component Footprint: Designator=D4 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D5 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D10 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D11 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D17 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D18 Old Footprint=Wurth_Electronics_0_MFG New Footprint=3.2X1.6X1.1
+Change Component Description : Designator=R36 Old Description=10k New Description=
+Change Component Description : Designator=R41 Old Description=10k New Description=
+Change Component Description : Designator=RP4 Old Description=10k New Description=
+Change Component Description : Designator=RP9 Old Description=10k New Description=
+Change Component Description : Designator=RP13 Old Description=10k New Description=
+Change Component Description : Designator=R42 Old Description=50k New Description=
+Change component parameters: Designator = "R36" ("R36"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\QBVNGMHC" ("\QBVNGMHC")
+Change component parameters: Designator = "R41" ("R41"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\SLQQDXIC" ("\SLQQDXIC")
+Change component parameters: Designator = "R42" ("R42"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\MXWIOEND" ("\MXWIOEND")
+Added Member To Class: ClassName=levit_0.1  Member=Component R36 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component R41 10k
+Added Member To Class: ClassName=levit_0.1  Member=Component R42 50k
