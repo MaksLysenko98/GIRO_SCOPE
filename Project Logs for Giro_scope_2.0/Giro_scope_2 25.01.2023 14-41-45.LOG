@@ -1,0 +1,14 @@
+Added Component: Designator=R53(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R86(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP43(Test_Point)
+Added Pin To Net: NetName=Net*2_9 Pin=R53-1
+Added Pin To Net: NetName=-12 Pin=R53-2
+Added Pin To Net: NetName=Net*3_9 Pin=R86-1
+Added Pin To Net: NetName=-12 Pin=R86-2
+Added Pin To Net: NetName=NetR58_2 Pin=TP43-1
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R53 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component R86 1k
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP13 Test_Point_PCB
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP43 Test_Point_PCB

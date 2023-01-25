@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5 Pin=RP2-1
+Removed Pin From Net: NetName=Net*1_2 Pin=RP2-2
+Removed Pin From Net: NetName=-5 Pin=RP2-3
+Removed Pin From Net: NetName=+5 Pin=RP5-1
+Removed Pin From Net: NetName=Net*2_2 Pin=RP5-2
+Removed Pin From Net: NetName=-5 Pin=RP5-3
+Removed Pin From Net: NetName=+5 Pin=RP7-1
+Removed Pin From Net: NetName=Net*3_2 Pin=RP7-2
+Removed Pin From Net: NetName=-5 Pin=RP7-3
+Removed Pin From Net: NetName=Net*14_2 Pin=VT22-1
+Removed Pin From Net: NetName=NetR75_2 Pin=VT22-2
+Removed Pin From Net: NetName=Net*_2 Pin=VT22-3
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=RP2
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=RP5
+Removed Member From Class: ClassName=Giro_scope_2.0 Member=RP7
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component C11 EEE1HA101AP
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP20 Test_Point_PCB
