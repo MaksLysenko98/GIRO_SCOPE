@@ -1,0 +1,3 @@
+Added Component: Designator=TP70(Test_Point)
+Added Pin To Net: NetName=Net*6_2 Pin=TP70-1
+Added Member To Class: ClassName=Giro_scope_2.0 Member=Component TP70 Test_Point_PCB
